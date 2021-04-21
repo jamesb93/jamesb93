@@ -20,4 +20,5 @@ I'm James Bradbury. I'm a composer and creative coder.
 
 📫 How to reach me: 
 jamesbradbury93@gmail.com
+
 jamesbradbury.xyz
