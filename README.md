@@ -19,6 +19,7 @@ I'm James Bradbury. I'm a composer and creative coder.
 - Knowledge building (currently interested in [Dendron](https://www.dendron.so/) and use it everyday).
 
 📫 How to reach me: 
+
 hello@jamesbradbury.xyz
 
 jamesbradbury.xyz
