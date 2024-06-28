@@ -1,4 +1,4 @@
-I'm James. I make music using computers. My day job is as a Researcher at [Ableton](https://www.ableton.com/en/) on the [Max for Live](https://www.ableton.com/en/live/max-for-live/) – I'd love to hear how you're using Live / Max or the combination of the two.
+I'm James. I make music using computers. My day job is as software developer at [Ableton](https://www.ableton.com/en/) on the AI Research & Development team – I'd love to hear how you're using Live / Max or the combination of the two.
 
 Most of the repositories are work I do in arts and music technology.
 
