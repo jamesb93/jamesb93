@@ -10,7 +10,7 @@ Most of the repositories are work I do in arts and music technology.
 - [Reathon](https://github.com/jamesb93/reathon) – Programmatically build REAPER sessions in Python.
 - [Finding Things In Stuff](https://github.com/jamesb93/ftis) – A framework for cobbling together machine listening and machine learning pipelines for the computer-assisted composition.
 - [python-flucoma](https://github.com/jamesb93/python-flucoma) – Pythonic bindings to the [FluCoMa CLI](https://github.com/flucoma/flucoma-cli).
-- [mosh](https://github.com/jamesb93/mosh) – Convert raw data into audio. Otherwise known as "moshing".
+- [bend](https://github.com/jamesb93/bend-rust) – Convert raw data into audio. Otherwise known as "moshing".
 - [Documax](https://github.com/jamesb93/documax) – Command-line tool for creating Max XML documentation fast and painlessly.
 - [RNBO Prototyper](https://github.com/jamesb93/RNBO-SvelteKit-Prototyper) – A rapid prototyping platform for RNBO web exports.
 - [My PhD Thesis](https://github.com/jamesb93/harnessing) – My PhD thesis in web format.
